@@ -1,0 +1,15 @@
+
+<meta chater="UTF-8">
+
+<head>
+
+Testando GIT
+
+</head>
+
+<body>
+
+Arquivo de teste de aprnedizado do GIT basico
+
+</body>
+bem vindo
